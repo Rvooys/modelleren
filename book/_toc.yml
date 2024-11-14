@@ -4,6 +4,7 @@ root: intro.md
 parts:
   - caption: Contents
     chapters:
+    - file: modelleren natuurkunde/inleiding.md
     - file: some_content/overview.md
       sections:
       - file: some_content/text_and_code.ipynb
