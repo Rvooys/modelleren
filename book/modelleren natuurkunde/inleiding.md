@@ -6,7 +6,9 @@ Wat je kan meten is de positie van de bal op verschillende tijdstippen. Dit kan 
 
 Waarin je geintresseerd kan zijn is de luchtwrijving dat de bal op elk moment ondervind.
 Hier is een formule voor:
-Fwl = 0.5*rho*cw*A*v**2. Echter is deze formule ook maar een **model**. Hij past goed voor objecten in een luchtstille ruimte en waar de bal perfect rond is.
+$ F_{wl} = \frac{1}{2} \rho \cdot c_w \cdot A \cdot v^2 $. 
+
+Echter is deze formule ook maar een **model**. Hij past goed voor objecten in een luchtstille ruimte en waar de bal perfect rond is.
 Maar hebben we wellicht van turbulentie, of wind in de ruimte, of is de bal een beetje misvormd, of draait om een as, dan gelden weer andere formules. Je moet dus _aannames_ maken om een natuurkundig fenomeen te beschrijven.
 
 Een _aanname_ van het afkoelen van het kopje thee is bijvoorbeeld dat de warmte alleen aan de lucht wordt afgestaan, maar je negeert dan het opwarmen van het keramisch of glazen kopje waar het water in zit. Daarnaast neem je ook aan dat het water stil is in de thee en dus geen draaikolk is.
