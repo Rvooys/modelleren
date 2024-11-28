@@ -5,10 +5,10 @@ parts:
   - caption: Contents
     chapters:
     - file: modelleren natuurkunde/inleiding.md
-    - file: some_content/overview.md
+    - file: hetboek/overview.md
       sections:
-      - file: some_content/text_and_code.ipynb
-      - file: some_content/Eerste_kennismaking_strings_en_for_loop.ipynb
+      - file: hetboek/text_and_code.ipynb
+      - file: hetboek/Eerste_kennismaking_strings_en_for_loop.ipynb
     - file: references.md
     - file: changelog.md
     - file: credits.md
