@@ -5,7 +5,9 @@ parts:
   - caption: Inhoud
     chapters:
     - file: modelleren natuurkunde/inleiding.md
-    - file: Wiskunde_D/Eerste_kennismaking_strings_en_for_loop.ipynb
+    - file: Wiskunde_D/Wiskunde D programmeren met python.md
+    section:
+      - file: Wiskunde_D/Eerste_kennismaking_strings_en_for_loop.ipynb
     - file: references.md
     - file: changelog.md
     - file: credits.md
