@@ -2,10 +2,12 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: Contents
+  - caption: Inhoud
     chapters:
     - file: modelleren natuurkunde/inleiding.md
     - file: Wiskunde_D/Eerste_kennismaking_strings_en_for_loop.ipynb
     - file: references.md
     - file: changelog.md
     - file: credits.md
+
+
