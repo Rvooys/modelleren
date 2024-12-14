@@ -8,8 +8,8 @@ parts:
     - file: Voorpagina/voorpagina.md
   - caption: Natuurkunde
     chapters:
-    - file: modelleren natuurkunde/inleiding.md
- 
+    - file: modelleren_natuurkunde/inleiding.md
+    - file: modelleren_natuurkunde/vrije_val.ipynb
   - caption: Wiskunde D
     chapters: 
     - file: Wiskunde_D/Wiskunde D programmeren met python.md
