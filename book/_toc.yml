@@ -4,6 +4,7 @@ root: intro.md
 parts:
 
   - caption: Voorpagina
+    chapters:
     - file: Voorpagina/voorpagina.md
   - caption: Natuurkunde
     chapters:
