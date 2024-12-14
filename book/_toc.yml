@@ -2,6 +2,9 @@ format: jb-book
 root: intro.md
 
 parts:
+
+  - caption: Voorpagina
+    - file: Voorpagina/voorpagina.md
   - caption: Natuurkunde
     chapters:
     - file: modelleren_natuurkunde/inleiding.md
