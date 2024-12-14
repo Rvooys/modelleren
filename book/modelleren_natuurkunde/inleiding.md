@@ -1,4 +1,4 @@
-# Modelleren in natuurkunde.
+# Inleiding in modelleren bij natuurkunde.
 
 Een van de doelen van de natuurkunde is het beschrijven van natuurkundige fenomenen, bijvoorbeeld beweging van een vallende bal of het temperatuurverloop van afkoelend kopje water.
 Een natuurkundig model is een kader waarin je zo'n fenomeen beschrijft,  als  voorbeeld nemen we de valbeweging van een bal met luchtwrijving.
