@@ -3,9 +3,7 @@ root: intro.md
 
 parts:
 
-  - caption: Voorpagina
-    chapters:
-    - file: Voorpagina/voorpagina.md
+
   - caption: Natuurkunde
     chapters:
     - file: modelleren_natuurkunde/inleiding.md
