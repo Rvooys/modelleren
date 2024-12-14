@@ -6,7 +6,11 @@ Voor natuurkunde gaat het om het verplichte domein Modelleren, in 4V begin je he
 
 Aan de linkerkant zie je een inhoudsopgave. Navigeer naar datgene wat je van je docent moet gaan bestuderen.
 
-Bovenin zie je een raketje (Live Code), als je daarop klikt, en een (lange) tijd wacht, kan je werken aan de python programma's. Probeer dat.
+Bovenin zie je een raketje (Live Code), als je daarop klikt, en een (lange) tijd wacht, kan je werken aan de python programma's. Probeer dat met het codeblokje hieroder. Druk een keer op 'Run', je zou dan de tekst 'Hallo!' moeten zien. Pas dat aan zodat je de tekst 'Hallo allemaal!' ziet.
+
+```python 
+print('Hallo!')
+```
 
 
 
