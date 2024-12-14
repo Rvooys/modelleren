@@ -2,9 +2,13 @@ format: jb-book
 root: intro.md
 
 parts:
+
+  - caption: Voorpagina
+    - file: Voorpagina/voorpagina.md
   - caption: Natuurkunde
     chapters:
     - file: modelleren natuurkunde/inleiding.md
+ 
   - caption: Wiskunde D
     chapters: 
     - file: Wiskunde_D/Wiskunde D programmeren met python.md
