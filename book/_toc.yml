@@ -8,6 +8,9 @@ parts:
     chapters:
     - file: modelleren_natuurkunde/inleiding.md
     - file: modelleren_natuurkunde/vrije_val.ipynb
+    - file: modelleren_natuurkunde/felix.ipynb
+    - file: modelleren_natuurkunde/correctiemodel_felix.ipynb
+    - file: modelleren_natuurkunde/model_trilling.ipynb
   - caption: Wiskunde D
     chapters: 
     - file: Wiskunde_D/Wiskunde D programmeren met python.md
