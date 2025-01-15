@@ -2,15 +2,16 @@
 
 In klas 4vwo gaan we een maand lang leren Numeriek Programmeren. Daartoe gebruiken we als taal Python. (meer info: python.org).
 
-Bij het vak natuurkunde is numeriek modelleren een verplicht onderdeel, waarbij je bijvoorbeeld een valbeweging met luchtwrijving gaat modelleren en matchen met de werkelijkheid, om zo achter waarden van variabelen te komen die je niet op een analytische manier kan achterhalen.
+Bij het vak natuurkunde is numeriek modelleren een verplicht onderdeel, waarbij je onder andere een valbeweging met luchtwrijving gaat modelleren en matchen met de werkelijkheid, om zo achter waarden van variabelen te komen die je niet op een analytische manier kan achterhalen.
 
-De insteek is dat je een introductie krijgt in het programmeren, je gaat daartoe kleine programma's leren schrijven om (wiskundige) problemen op te lossen. Daarbij leer je algoritmisch denken, maar ook hoe je antwoorden kunt opzoeken, hoe je omgaat met foutmeldingen, etc. Ook komt kort het omgaan met chatgpt langs.
+De insteek van deze maand is dat je een introductie krijgt in het programmeren an sich, je gaat daartoe kleine programma's leren schrijven om (wiskundige) problemen op te lossen. Daarbij leer je algoritmisch denken, maar ook hoe je antwoorden kunt opzoeken met chatGPT, hoe je omgaat met foutmeldingen, etc.
 
 Achtereenvolgens leer je 
 - wat je zoal kan programmeren met python.
 - wat variabelen als strings, integers, floats, etc zijn
 - hoe je een loop maakt met for en while
 - voorwaardes else if en elif.
+- omgaan met programma's als ChatGPT
 
 Dit wordt ondersteund met korte opdrachten tijdens de uitleg en grote opdrachten aan het eind. Er zal ook een pagina zijn met alle uitwerkingen, mocht je er toch echt niet uit komen.
 
