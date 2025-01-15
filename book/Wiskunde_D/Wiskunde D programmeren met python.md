@@ -23,3 +23,5 @@ Let op, zodra je de pagina ververst, zal al je code ook weer gewist worden. Wil 
 
 Aan de linkerkant zie je genummerd de verschillende hoofdstukken. Als je nog helemaal niet kan programmeren, begin gewoon bij het begin, je wordt stapsgewijs door de wereld van programmeren geleid. 
 Kan je al wat, scroll dan even door de onderwerpen heen en maak de eindopdrachten. 
+
+Veel plezier.
