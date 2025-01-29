@@ -13,10 +13,10 @@ Achtereenvolgens leer je
 - voorwaardes else if en elif.
 - omgaan met programma's als ChatGPT
 
-Dit wordt ondersteund met korte opdrachten tijdens de uitleg en grote opdrachten aan het eind. Er zal ook een pagina zijn met alle uitwerkingen, mocht je er toch echt niet uit komen.
+Dit wordt ondersteund met korte opdrachten tijdens de uitleg en grote opdrachten aan het eind. Er zal ook een pagina zijn met alle uitwerkingen, mocht je er toch echt echt niet uit komen.
 
 
-**Hoe werk je met dit document:
+**Hoe werk je met deze webpagina:
 Bovenaan de pagina zie je een klein raketje (Live Code), als je daar op klikt wordt er eerst van alles ingeladen, dat duurt eventjes. Het schermpje hieronder geeft een stukje code die je kan bewerken en kan 'runnen'. Je ziet dan direct de output van deze code. 
 
 Let op, zodra je de pagina ververst, zal al je code ook weer gewist worden. Wil je graag in een omgeving werken waar jouw input ook wordt opgeslagen, raad ik google colab aan, of je installeert Visual Studio Code (via anaconda.org). Je kan googlen hoe dit allemaal werkt. 

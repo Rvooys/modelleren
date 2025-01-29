@@ -1,4 +1,4 @@
-## Gebruik van ChatGPT
+## EXTRA Gebruik van ChatGPT
 
 Het gebruik van ChatGPT is TOEGESTAAN.
 
