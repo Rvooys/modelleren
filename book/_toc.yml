@@ -16,7 +16,7 @@ parts:
     - file: Wiskunde_D/Wiskunde D programmeren met python.md
       sections:
       - file: Wiskunde_D/Eerste_kennismaking_strings_en_for_loop.ipynb
-      - file: Wiskunde_D/lijsten_en_while_loop.ipynb
+      - file: Wiskunde_D/lijsten_while_en_definities.ipynb
       - file: Wiskunde_D/Gebruik_van_Chatgpt.md
 
 
