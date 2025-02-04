@@ -20,6 +20,7 @@ parts:
       - file: Wiskunde_D/lijsten_while_en_definities.ipynb
       - file: Wiskunde_D/Gebruik_van_Chatgpt.md
       - file: Wiskunde_D/Functies_en_grafieken.ipynb
+      - file: Wiskunde_D/Oefenopdrachten.ipynb
 
 
 
