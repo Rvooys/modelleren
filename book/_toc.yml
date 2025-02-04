@@ -6,7 +6,8 @@ parts:
 
   - caption: Natuurkunde
     chapters:
-    - file: modelleren_natuurkunde/inleiding.md
+    - file: modelleren_natuurkunde/inleiding-ingekort.md
+    - file: modelleren_natuurkunde/model.ipynb
     - file: modelleren_natuurkunde/vrije_val.ipynb
     - file: modelleren_natuurkunde/felix.ipynb
     - file: modelleren_natuurkunde/correctiemodel_felix.ipynb
