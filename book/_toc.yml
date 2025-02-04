@@ -21,6 +21,12 @@ parts:
       - file: Wiskunde_D/Gebruik_van_Chatgpt.md
       - file: Wiskunde_D/Functies_en_grafieken.ipynb
       - file: Wiskunde_D/Oefenopdrachten.ipynb
+    - file: Wiskunde_D/Uitwerkingen.ipynb
+      sections:
+      - file: Wiskunde_D/Uitwerkingen LES 1.ipynb
+      - file: Wiskunde_D/Uitwerkingen LES 2.ipynb
+      - file: Wiskunde_D/Uitwerkingen LES 3.ipynb
+      - file: Wiskunde_D/Uitwerkingen LES 4.ipynb
 
 
 
