@@ -20,11 +20,12 @@ parts:
       - file: Wiskunde_D/2526_Les2_getaltheorie.ipynb
       - file: Wiskunde_D/Oefenopdrachten.ipynb
       - file: Wiskunde_D/Gebruik_van_Chatgpt.md
-      - file: Wiskunde_D/Eerste_kennismaking_strings_en_for_loop.ipynb
-  - caption: Wiskund D (oud)
+
+  - caption: Wiskunde D (oude versies)
     chapters:
+    - file: 2425_documenten/Eerste_kennismaking_strings_en_for_loop.ipynb
     - file: 2425_documenten/Functies_en_grafieken.ipynb
-    - file: 2425_documenten/lijsten_while_en_deinities.ipynb
+    - file: 2425_documenten/lijsten_while_en_definities.ipynb
     - file: Uitwerkingen.md
       sections:
       - file: 2425_documenten/Uitwerkingen LES 1.ipynb

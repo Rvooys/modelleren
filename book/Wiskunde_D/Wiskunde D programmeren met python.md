@@ -1,4 +1,4 @@
-# Programmeren in python
+## Programmeren in python
 
 In klas 4vwo gaan we een maand lang leren Numeriek Programmeren. Daartoe gebruiken we als taal Python. (meer info: python.org).
 
