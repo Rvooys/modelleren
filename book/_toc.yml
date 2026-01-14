@@ -12,7 +12,7 @@ parts:
     - file: modelleren_natuurkunde/felix.ipynb
     - file: modelleren_natuurkunde/correctiemodel_felix.ipynb
     - file: modelleren_natuurkunde/model_trilling.ipynb
-  - caption: Wiskunde D
+  - caption: Wiskunde D 2526
     chapters: 
     - file: Wiskunde_D/Wiskunde D programmeren met python.md
       sections:
@@ -20,6 +20,19 @@ parts:
       - file: Wiskunde_D/2526_Les2_getaltheorie.ipynb
       - file: Wiskunde_D/Oefenopdrachten.ipynb
       - file: Wiskunde_D/Gebruik_van_Chatgpt.md
+  - caption: Wiskund D (oud)
+    chapters:
+    - file: 2425_documenten/Eerste_kennismaking_strings_en_for_loop.ipynb
+    - file: 2425_documenten/Functies_en_grafieken.ipynb
+    - file: 2425_documenten/lijsten_while_en_deinities.ipynb
+    - file: Uitwerkingen.md
+      sections:
+      -  file: 2425_documenten/Uitwerkingen LES 1.ipynb
+      - file: 2425_documenten/Uitwerkingen LES 2.ipynb
+      - file: 2425_documenten/Uitwerkingen LES 3.ipynb
+      - file: 2425_documenten/Uitwerkingen LES 4.ipynb
+
+
 
 
 
