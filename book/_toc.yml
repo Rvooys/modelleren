@@ -17,17 +17,9 @@ parts:
     - file: Wiskunde_D/Wiskunde D programmeren met python.md
       sections:
       - file: Wiskunde_D/2526_Les1_introductie_python.ipynb
-      - file: Wiskunde_D/Eerste_kennismaking_strings_en_for_loop.ipynb
-      - file: Wiskunde_D/lijsten_while_en_definities.ipynb
-      - file: Wiskunde_D/Functies_en_grafieken.ipynb
+      - file: Wiskunde_D/2526_Les2_getaltheorie.ipynb
       - file: Wiskunde_D/Oefenopdrachten.ipynb
       - file: Wiskunde_D/Gebruik_van_Chatgpt.md
-    - file: Wiskunde_D/Uitwerkingen.md
-      sections:
-      - file: Wiskunde_D/Uitwerkingen LES 1.ipynb
-      - file: Wiskunde_D/Uitwerkingen LES 2.ipynb
-      - file: Wiskunde_D/Uitwerkingen LES 3.ipynb
-      - file: Wiskunde_D/Uitwerkingen LES 4.ipynb
 
 
 
