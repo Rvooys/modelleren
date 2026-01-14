@@ -27,7 +27,7 @@ parts:
     - file: 2425_documenten/lijsten_while_en_deinities.ipynb
     - file: Uitwerkingen.md
       sections:
-      -  file: 2425_documenten/Uitwerkingen LES 1.ipynb
+      - file: 2425_documenten/Uitwerkingen LES 1.ipynb
       - file: 2425_documenten/Uitwerkingen LES 2.ipynb
       - file: 2425_documenten/Uitwerkingen LES 3.ipynb
       - file: 2425_documenten/Uitwerkingen LES 4.ipynb
