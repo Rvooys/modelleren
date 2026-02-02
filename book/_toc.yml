@@ -18,6 +18,7 @@ parts:
       sections:
       - file: Wiskunde_D/2526_Les1_introductie_python.ipynb
       - file: Wiskunde_D/2526_Les2_getaltheorie.ipynb
+      - file: Wiskunde_D/2526_Les3_definitiesenrandom.ipynb
       - file: Wiskunde_D/Oefenopdrachten.ipynb
       - file: Wiskunde_D/Gebruik_van_Chatgpt.md
 
