@@ -1,11 +1,11 @@
 ## EXTRA Gebruik van ChatGPT
 
-Het gebruik van ChatGPT is TOEGESTAAN.
+Het gebruik van ChatGPT of Gemini of... is TOEGESTAAN.
 
 In dit hoofdstuk licht ik toe HOE je het gebruikt en vooral wat je MOET doen als je er van gebruik maakt voor opdrachten.
 
 # ChatGPT
-Jullie zijn ongetwijfeld al bekend met CHatGPT. Maak een account aan (bijvoorbeeld je schoolaccount) en probeer eens wat uit. Het is echt een leuk programma.
+Jullie zijn ongetwijfeld al bekend met ChatGPT. Maak een account aan (bijvoorbeeld je schoolaccount) en probeer eens wat uit. Het is echt een leuk ding.
 
 Voor programmeren is ChatGPT ook zeker geschikt. 
 
@@ -19,7 +19,7 @@ b) Je kan vragen aan chat om elke regel toe te lichten. Iets als ''geef commenta
 
 # Debuggen
 Soms doet ChatGPT niet wat je wilt, door duidelijke intructies te geven wat er mis gaat maakt ChatGPT vaak wel een goede aanpassing. 
-Ook als je een foutmelding krijgt, kan je deze foutmelding kopieren plakken in CHat en om verduidelijking geven.
+Ook als je een foutmelding krijgt, kan je deze foutmelding kopieren plakken in Chat en om verduidelijking geven.
 
 Je kan ook je hele code aan chat geven en vragen naar verbetering. Zorg wel dat je BEGRIJPT wat de verbetering was en documenteer dat (zie verwijzing hieronder)
 
@@ -37,7 +37,7 @@ En bij bronvermelding zet je je 'prompt' (de tekst die je gebruikt als input) en
 Met een dergelijke verwijzing kan plagiaat voorkomen worden. Uiteraard is het NOOIT de bedoeling om enkel de volledige output te begruiken van chatgpt, zeker als je geen idee hebt wat er in de code eigenlijk gebeurd.
 
 
-Gebruik ChatGPT niet blindelings, soms doet het gekke dingen. Controleer altijd of het doet wat je wilt.  Gebruik het wel als hulpmiddel om net even dat extra stapje te vinden om je doel te bereiken. MOcht je bijvoorbeeld niet weten hoe je priemgetallen kan generen kon je een aantal regels van chatgpt gebruiken om weer verder te gaan met je eigen code. Een verwijzing zoals hierboven beschreven is NIET ERG. Als je maar begrijpt wat er staat.
+Gebruik ChatGPT niet blindelings, soms doet het gekke dingen. Controleer altijd of het doet wat je wilt.  Gebruik het wel als hulpmiddel om net even dat extra stapje te vinden om je doel te bereiken. Mocht je bijvoorbeeld niet weten hoe je priemgetallen kan generen kon je een aantal regels van chatgpt gebruiken om weer verder te gaan met je eigen code. Een verwijzing zoals hierboven beschreven is NIET ERG. Als je maar begrijpt wat er staat.
 
 # Opdracht
 Mocht je dat niet hebben gedaan, maak een van de opdrachten van andere onderdelen ook in chatgpt en vergelijk met die van jou.
